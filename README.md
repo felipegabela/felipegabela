@@ -3,7 +3,7 @@
 Full Stack Software Developer.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Felipe%20Gabela-115740?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-gabela-85062b86/)](https://www.linkedin.com/in/felipe-gabela-85062b86/) 
-[![Gmail Badge](https://img.shields.io/badge/-gabelafelipe@gmail.com-115740?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipegabela@protonmail.com)](mailto:felipegabela@protonmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-felipegabela@protonmail.com-115740?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipegabela@protonmail.com)](mailto:felipegabela@protonmail.com)
 
 Enthusiast of the best web development technologies.
 
