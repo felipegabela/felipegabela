@@ -2,7 +2,6 @@
 
 Full Stack Software Developer.
 
-[![Twitter Badge](https://img.shields.io/badge/-@felipegabela-115740?style=flat-square&labelColor=115740&logo=twitter&logoColor=white&link=https://twitter.com/felipegabela)](https://twitter.com/felipegabela) 
 [![Linkedin Badge](https://img.shields.io/badge/-Felipe%20Gabela-115740?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-gabela-85062b86/)](https://www.linkedin.com/in/felipe-gabela-85062b86/) 
 [![Gmail Badge](https://img.shields.io/badge/-gabelafelipe@gmail.com-115740?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabelafelipe@gmail.com)](mailto:gabelafelipe@gmail.com)
 
